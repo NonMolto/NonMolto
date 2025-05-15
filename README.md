@@ -12,6 +12,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![NonMolto's Stats](https://github-readme-stats.vercel.app/api?username=NonMolto&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![image](https://github.com/user-attachments/assets/00388293-4656-415b-8044-898761966719)
+![NonMolto's Streak](https://github-readme-streak-stats.herokuapp.com/?user=NonMolto&theme=tokyonight&hide_border=true)
 
 
