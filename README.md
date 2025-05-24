@@ -23,5 +23,11 @@ They call me **@NonMolto** — a name that whispers "not much"... but don't be f
 
 ---
 
+## Me encontre aqui:
+
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1303756826541817917)
+
+---
+
 > _“Between ones and zeros, I write a silent story.
 > Not to be seen
