@@ -17,7 +17,7 @@ They call me **@NonMolto** — a name that whispers "not much"... but don't be f
 
 ![NonMolto Sequel](https://github-readme-streak-stats.herokuapp.com/?user=NonMolto&theme=tokyonight&hide_border=true)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NonMolto&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
